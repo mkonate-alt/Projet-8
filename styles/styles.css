@@ -462,10 +462,12 @@ a {
 }
 
 section p {
-    margin-bottom: 20px; /* Ajoute de l'espace sous chaque paragraphe */
+    margin-bottom: 20px;
 }
 
-
+p{
+    color: #000;
+}
 
 @media (max-width: 1024px) {
     header {
